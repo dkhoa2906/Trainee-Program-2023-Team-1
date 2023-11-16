@@ -2,7 +2,7 @@ export const thanh_tam = `
 <div class="left-column">
     <!-- Content for left column goes here --> 
     <img id="logo" src="https://lh3.googleusercontent.com/pw/ADCreHdaOMYiUdjIlNAkd_b5__H927yPc0fySkMRdRf1qaRgU26I1UW89DW_9LsfRbU7yvUEOfkbvk1sYWqNZIgNFAf40q51O1fZeMm91sAFycV-reJJcLw=w2400" />
-    <img id="avatar" src="/public/thanh_tam.jpg" alt="" />
+    <img id="avatar" src="public/thanh_tam.jpg" alt="" />
     <div class="highlights">
         <h1>Lê Thị Thanh Tâm</h1>
         <p>KHMT2023.4</p>
